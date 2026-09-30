@@ -1,0 +1,12 @@
+openpyxl>=3.1.0
+litellm>=1.82.0
+pymupdf>=1.26.4
+PyPDF2>=3.0.1
+python-dotenv>=1.1.0
+pyyaml>=6.0.2
+rich>=13.0.0
+gradio>=4.0.0
+gspread>=6.0.0
+google-auth>=2.29.0
+fastapi>=0.110.0
+uvicorn>=0.27.0
